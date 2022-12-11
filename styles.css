@@ -243,6 +243,7 @@ body {
         top: -50px;
         width: 640px;
         height: 640px;
+        z-index: -1;
     }
 
     .pinkycontainer1 {
